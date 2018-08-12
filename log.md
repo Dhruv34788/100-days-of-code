@@ -1,30 +1,35 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Here are some milestones of my progress and some great exprerience I would like to highlight.For dtailed log of all things click here** 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+#### DAY-0/100**
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Here are some technologies that I would like to learn during these 100 days , 
+- ReactJS
+- VueJS
+- NodeJS
+- MongoDB
+- Git
 
-**Link to work:** [Calculator App](http://www.example.com)
+Here are some projests I will take up during these 100 days ,
+- **Portfolio website** 
+A simple portfolio website with a feature to show one's journey of learning by commiting/posting something everyday.(kind of daily jonural)   
+- **MemoryLane** 
+A bloging website where people can create private channel for their extended family or school or college and post intersting things so afret that they get white hairs they would scroll again and agin through those posts.
+- **WhatsappBot**
+Something which is on the list of *to-do-things* since some months and I what would be the best chance to build it.
+- **An Arcade Game**
+Simillar to agar.io or snake.io where one can just come up and play.
+- **Boredom Killer**
+Something which is on my mind which I would like to start working on, A platform where people come to get entertained not only just online things but also some adventure meeting with strange peoples and all.I don't have clear idea about how I am gonna do this but I will figure it out.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+Also there are some other things which I would like to do or take my steps towards them.
+- Contributing in OpenSource Projects.
+- Building solutins for community/college.
+- Integrating ML with my projects.
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
