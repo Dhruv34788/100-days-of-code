@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
-## Here are some milestones of my progress and some great exprerience I would like to highlight.For dtailed log of all things click here** 
+## Here are some milestones of my progress and some great exprerience I would like to highlight.For dtailed log of all things click here
 
-#### DAY-0/100**
+#### DAY-0/100
 
 Here are some technologies that I would like to learn during these 100 days , 
 - ReactJS
