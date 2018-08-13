@@ -29,7 +29,8 @@ Also there are some other things which I would like to do or take my steps towar
 
 
 
+#### DAY-1/100
 
-
-
-
+-Learned basics of git    
+    -[link1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c) , [link2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) , [link3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
+-
