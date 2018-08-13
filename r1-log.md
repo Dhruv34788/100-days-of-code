@@ -2,6 +2,8 @@
 
 The log of my #100DaysOfCode challenge. Started on [Aug 12, Sunday , 2018]
 
+---
+
 #### DAY-0/100
 Here are some technologies that I would like to learn during these 100 days , 
 - ReactJS
@@ -27,10 +29,11 @@ Also there are some other things which I would like to do or take my steps towar
 - Building solutins for community/college.
 - Integrating ML with my projects.
 
-
+---
 
 #### DAY-1/100
-
--Learned basics of git    
-    -[link1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c) , [link2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) , [link3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
--
+- Learned basics of git , here are some great articles.
+        - [link1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c)
+        - [link2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a)
+        - [link3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
+- Done some excercises for git on [learn branching](https://learngitbranching.js.org)
