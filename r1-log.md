@@ -32,8 +32,26 @@ Also there are some other things which I would like to do or take my steps towar
 ---
 
 #### DAY-1/100
-- Learned basics of git , here are some great articles.
-        - [link1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c)
-        - [link2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a)
-        - [link3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
-- Done some excercises for git on [learn branching](https://learngitbranching.js.org)
+
+1. Learned basics of git , here are some great articles.
+    - [link1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c)
+    - [link2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a)
+    - [link3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
+2. Done some excercises for git on [learn branching](https://learngitbranching.js.org)
+
+---
+
+#### DAY-2-5/100
+
+1. Learned basics of reactJS and tried some hands-on-projects
+    - [Tick-Tack-Toe](https://github.com/Dhruv34788/React101/tree/master/tick-tack-toe)
+    - [Counter-App](https://github.com/Dhruv34788/React101/tree/master/counter-app)
+    
+2. Built chat application using chatkit library : [Chatkit](https://docs.pusher.com/chatkit) is designed to make it as simple as possible to add chat to app. It lets you add 1-1 and group chat to your app, along with typing indicators, file attachments and storage, user online presence and a flexible permissions system.It's really simple to use and also free :P
+
+    - [Chatkit-Server](https://github.com/Dhruv34788/React101/tree/master/chatkit-server)
+    - [Chatkit-Client](https://github.com/Dhruv34788/React101/tree/master/chatkit-client)
+    - [Chatkit-App](https://github.com/Dhruv34788/React101/tree/master/chatkit-app)
+
+
+        
