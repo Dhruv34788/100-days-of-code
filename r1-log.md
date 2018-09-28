@@ -8,7 +8,7 @@ The log of my #100DaysOfCode challenge. Started on [Aug 12, Sunday , 2018]
 Here are some technologies that I would like to learn during these 100 days , 
 - ReactJS
 - VueJS
-- NodeJS111
+- NodeJS
 - MongoDB
 - Git
 
